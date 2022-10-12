@@ -1,0 +1,25 @@
+
+This is the appended value2
+New line with mode='a' called append.
+This is the appended value2
+New line with mode='a' called append.
+This is the appended value2
+New line with mode='a' called append.
+This is the appended value2
+New line with mode='a' called append.
+This is the appended value2
+New line with mode='a' called append.
+This is the appended value2
+New line with mode='a' called append.
+This is the appended value2
+New line with mode='a' called append.
+This is the appended value2
+New line with mode='a' called append.
+This is the appended value2
+New line with mode='a' called append.
+This is the appended value2
+New line with mode='a' called append.
+This is the appended value2
+New line with mode='a' called append.
+This is the appended value2
+New line with mode='a' called append.
