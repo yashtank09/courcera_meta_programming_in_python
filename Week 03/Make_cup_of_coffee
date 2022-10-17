@@ -1,0 +1,53 @@
+Exercise: Make a cup of coffee
+  Input: Ingredients
+
+  Output: A Cup of coffee
+
+  Steps:
+    - Pour drinking water into electric kettle
+    - Plug electric kettle and wait for it to boil
+    - While waiting, prepare coffee cup
+    - Add instant coffee powder into cup
+    - Check boiling water
+    - If water is boiled, unplug kettle and pour water into cup
+    - If water is not boiled, press the “on” switch to continue and wait until boiled
+    - Refer back to step 6
+    - Stir coffee mix
+    - Drink!
+
+  Assumption:
+    - I have a cup/glass to put my coffee in
+    - I have a kettle
+    - I can drink coffee
+------------------------------------------------------------------------------------------------------------------------
+Using different approach:
+
+ Input: Ingredients Required
+    - Cup
+    - Hot Water
+    - Coffee Grains
+
+  Optional:
+    - Milk
+    - Cream
+    - Sugar
+
+  Output:
+    - A Cup of Coffee
+
+  Steps:
+    1. Add drinking water to an electric kettle.
+
+    2. Put the kettle on to boil water.
+
+    3. While waiting, prepare coffee.
+
+        4. Add coffee granules to the cup.
+
+        5. If water is boiled, pour water into a cup, else continue to wait.
+
+    6. If milk or cream is required, add and stir.
+
+    7. If sugar is required, add and stir.
+
+    8. Return coffee.
